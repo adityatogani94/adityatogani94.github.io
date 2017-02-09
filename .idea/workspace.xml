@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6944f061-587f-425b-b835-65104df21293" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/home2.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2015/11/home2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/sign.png" afterPath="$PROJECT_DIR$/wp-content/uploads/2015/11/sign.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/04/portfolio-1.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2016/04/portfolio-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/04/portfolio-2.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2016/04/portfolio-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/04/portfolio-3.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2016/04/portfolio-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/04/portfolio-4.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2016/04/portfolio-4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/04/portfolio-5.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2016/04/portfolio-5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/04/portfolio-6.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2016/04/portfolio-6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/04/portfolio-7.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2016/04/portfolio-7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/04/portfolio-8.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2016/04/portfolio-8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="adityatogani94.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -147,15 +137,15 @@
       <updated>1477261756175</updated>
       <workItem from="1477261760361" duration="2589000" />
       <workItem from="1486522345945" duration="2491000" />
-      <workItem from="1486598306760" duration="11766000" />
+      <workItem from="1486598306760" duration="11889000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16846000" />
+    <option name="totallyTimeSpent" value="16969000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09325606" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
